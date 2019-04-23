@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.977,=C:\Users\mikes\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.606,=C:\Users\mikes\Desktop\SQLite\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.044,C:\Users\mikes\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\mikes\Desktop\SQLite\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.137,C:\Users\mikes\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\mikes\Desktop\SQLite\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.421,=C:\Users\mikes\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,C:\Users\mikes\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\mikes\Desktop\SQLite\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.552,=C:\Users\mikes\Desktop\SQLite\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.137,C:\Users\mikes\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\mikes\Desktop\SQLite\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,=C:\Users\mikes\Desktop\SQLite\sqlite3ext.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.137,C:\Users\mikes\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\mikes\Desktop\SQLite\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,26 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit1H
+#define Unit1H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include "VirtualTrees.hpp"
+//---------------------------------------------------------------------------
+class TSQLite : public TForm
+{
+__published:	// IDE-managed Components
+	TVirtualStringTree *Table;
+	TButton *Download;
+	TButton *Delete;
+	TButton *DeleteAll;
+private:	// User declarations
+public:		// User declarations
+	__fastcall TSQLite(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TSQLite *SQLite;
+//---------------------------------------------------------------------------
+#endif
